@@ -1,0 +1,50 @@
+---
+format: cover-letter-pdf
+name: "Fulano Ciclano"
+contact:
+  email: "fulano.ciclano@gmail.com"
+  phone: "+55 83 99999-1234"
+  location: "João Pessoa, PB"
+  linkedin: "fulanociclano"
+  github: "fulanociclano"
+date: "January 15, 2025"
+recipient:
+  name: "Hiring Team"
+  title: "Data Science Manager"
+  company: "Company Name"
+  address: "City, State"
+greeting: "Dear Hiring Team,"
+closing: "Sincerely,"
+---
+
+::: {.content-visible when-profile="en"}
+
+I am writing to express my interest in the Data Scientist position at [Company]. As a recent graduate in Data Science and Artificial Intelligence from UFPB with internship experience at Accenture Applied Intelligence and SEBRAE, I am excited about the opportunity to contribute to [Company's] data-driven initiatives.
+
+During my internship at Accenture Applied Intelligence, I assisted in building predictive maintenance models for an industrial client, achieving 78% precision in failure prediction. I also developed data visualizations and automated weekly reports using Power BI, reducing manual work by 50%. This experience taught me how to collaborate with senior data scientists and deliver business value through analytics.
+
+What draws me to [Company] specifically is [reason showing research]. I am particularly excited about [specific project/initiative]. My background in machine learning, NLP, and data visualization positions me well to contribute to your team's goals.
+
+At SEBRAE Paraíba, I created dashboards tracking performance metrics for 200+ entrepreneurs and built a sales forecasting tool using Prophet that improved planning accuracy. My thesis project—a sentiment analysis dashboard for tourism reviews using BERTimbau achieving 82% accuracy—demonstrates my ability to deliver end-to-end ML solutions with practical applications.
+
+I would welcome the opportunity to discuss how my skills align with [Company's] needs. I am available for an interview at your convenience and can be reached at fulano.ciclano@gmail.com or +55 83 99999-1234.
+
+Thank you for considering my application. I look forward to the possibility of contributing to [Company's] continued success.
+
+:::
+
+::: {.content-visible when-profile="pt-BR"}
+
+Escrevo para expressar meu interesse na posição de Cientista de Dados na [Empresa]. Como recém-formado em Ciência de Dados e Inteligência Artificial pela UFPB com experiência de estágio na Accenture Applied Intelligence e SEBRAE, estou entusiasmado com a oportunidade de contribuir para as iniciativas data-driven da [Empresa].
+
+Durante meu estágio na Accenture Applied Intelligence, auxiliei na construção de modelos de manutenção preditiva para cliente industrial, alcançando 78% de precisão na previsão de falhas. Também desenvolvi visualizações de dados e automatizei relatórios semanais com Power BI, reduzindo trabalho manual em 50%. Esta experiência me ensinou a colaborar com cientistas de dados seniores e entregar valor de negócio através de analytics.
+
+O que me atrai especificamente à [Empresa] é [razão mostrando pesquisa]. Estou particularmente entusiasmado com [projeto/iniciativa específica]. Minha experiência em machine learning, NLP e visualização de dados me posiciona bem para contribuir com os objetivos da equipe.
+
+No SEBRAE Paraíba, criei dashboards acompanhando métricas de desempenho para 200+ empreendedores e desenvolvi uma ferramenta de previsão de vendas usando Prophet que melhorou a precisão do planejamento. Meu projeto de TCC—um dashboard de análise de sentimento para turismo usando BERTimbau alcançando 82% de acurácia—demonstra minha capacidade de entregar soluções de ML end-to-end com aplicações práticas.
+
+Agradeço a oportunidade de discutir como minhas habilidades se alinham com as necessidades da [Empresa]. Estou disponível para uma entrevista conforme sua conveniência e posso ser contatado pelo email fulano.ciclano@gmail.com ou telefone +55 83 99999-1234.
+
+Agradeço sua consideração e aguardo a possibilidade de contribuir para o sucesso contínuo da [Empresa].
+
+:::

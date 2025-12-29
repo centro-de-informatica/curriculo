@@ -1,0 +1,26 @@
+# Output
+_output/
+*.pdf
+*.tex
+
+# LaTeX
+*.log
+*.aux
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.xdv
+
+# Quarto
+.quarto/
+_freeze/
+*_files/
+*.quarto_ipynb
+
+# OS
+.DS_Store
+Thumbs.db
+
+/.quarto/
+**/*.quarto_ipynb

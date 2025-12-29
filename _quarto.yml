@@ -1,0 +1,8 @@
+project:
+  type: default
+
+profile:
+  default: [en, concise]
+  group:
+    - [en, pt-BR]
+    - [concise, master]

@@ -1,0 +1,4 @@
+# Master version (detailed, multi-page)
+format:
+  professional-cv-pdf:
+    output-file: master.pdf

@@ -1,0 +1,242 @@
+---
+format: professional-cv-pdf
+name: "Fulano Ciclano"
+contact:
+  email: "fulano.ciclano@gmail.com"
+  phone: "+55 83 99999-1234"
+  location: "João Pessoa, PB"
+  linkedin: "fulanociclano"
+  github: "fulanociclano"
+---
+
+::: {.content-visible when-profile="en"}
+
+# Education
+
+{{< entry title="B.S. Data Science and Artificial Intelligence" company="Federal University of Paraíba (UFPB)" dates="2021 - 2025" loc="João Pessoa, PB" >}}
+
+* **GPA:** 8.5/10.0
+* **Thesis:** Sentiment analysis dashboard for tourism reviews using BERTimbau (82% accuracy) - [sentimento-nordeste](https://github.com/fulanociclano/sentimento-nordeste)
+
+::: {.content-visible when-profile="master"}
+* **Relevant Coursework:** Deep Learning, Stochastic Processes, Big Data Architectures, Bayesian Statistics, Algorithm Design, Linear Algebra
+* **Thesis Details:** Collected 8k+ reviews from Google Maps/TripAdvisor; deployed interactive Streamlit demo
+* **Tools:** Python, Hugging Face Transformers, BERTimbau, Streamlit, pandas
+:::
+
+# Experience
+
+{{< entry title="Data Science Intern" company="Accenture Applied Intelligence" dates="Jul 2024 - Dec 2024" loc="Recife, PE (Hybrid)" >}}
+
+* Assisted in building predictive maintenance models for industrial client, achieving 78% precision in failure prediction
+* Developed data visualizations and automated weekly reports using Power BI, reducing manual work by 50%
+* Collaborated with senior data scientists on feature engineering for churn prediction model
+
+::: {.content-visible when-profile="master"}
+  * Performed EDA on sensor logs using PySpark under mentorship
+  * Learned data pipeline development with Azure Data Factory
+  * Participated in client presentations and sprint planning meetings
+  * Tools: Python, PySpark, Azure, SQL, Scikit-learn, Power BI
+:::
+
+{{< entry title="Data Analytics Intern" company="SEBRAE Paraíba" dates="Jan 2024 - Jun 2024" loc="João Pessoa, PB" >}}
+
+* Created dashboards tracking small business performance metrics for 200+ entrepreneurs
+* Cleaned and processed survey data from 5,000+ respondents using Python and pandas
+* Built sales forecasting tool using Prophet for internal use, improving planning accuracy for partner businesses
+
+::: {.content-visible when-profile="master"}
+  * Supported team in generating monthly reports on regional economic indicators
+  * First professional experience with stakeholder communication
+  * Learned agile methodology and participated in daily standups
+  * Tools: Python, pandas, Prophet, Excel, Power BI, SQL
+  * Project: [previsao-vendas-sebrae](https://github.com/fulanociclano/previsao-vendas) - Created user-friendly interface for non-technical users
+:::
+
+# Additional Experience and Leadership
+
+{{< entry title="Undergraduate Researcher (PIBIC/CNPq)" company="ARIA Lab - UFPB" dates="Aug 2022 - Jul 2024" >}}
+
+* Assisted in research on "Deep Learning for Satellite Image Analysis of Semi-Arid Regions"
+* Contributed to data preprocessing pipeline and model evaluation for water reservoir detection
+* Co-authored poster presented at ENIC UFPB 2024
+
+::: {.content-visible when-profile="master"}
+* Learned TensorFlow and Keras under professor guidance
+* Helped annotate 500+ satellite images for training dataset
+* Tools: TensorFlow, Keras, Python, Google Earth Engine
+:::
+
+{{< entry title="Teaching Assistant" company="UFPB - Introduction to Data Science" dates="Mar 2024 - Jul 2024" >}}
+
+* Supported 45 students with Python programming and data analysis assignments
+
+::: {.content-visible when-profile="master"}
+* Held weekly office hours and graded homework assignments
+* Created supplementary tutorial materials on pandas and matplotlib
+* Tools: Python, Jupyter Notebooks
+:::
+
+{{< entry title="Member" company="Data Science Academic League (LACD-UFPB)" dates="Mar 2023 - Present" >}}
+
+* Participated in 10+ workshops and study groups; helped organize 2 events
+
+{{< entry title="Volunteer Instructor" company="Programaê" dates="Aug 2023 - Dec 2023" >}}
+
+* Taught basic Python programming to 15 high school students
+
+::: {.content-visible when-profile="master"}
+{{< entry title="Participant" company="Hackathon UFPB 2024" dates="Oct 2024" >}}
+
+* Built prototype for agricultural data visualization (team of 4, Agricultural Innovation track)
+
+{{< entry title="Study Group Organizer" company="Machine Learning Reading Group" dates="Mar 2024 - Nov 2024" >}}
+
+* Coordinated weekly paper discussions with 8 classmates
+:::
+
+# Skills
+
+**Languages:** Python, SQL[, R, C++ (basic)]{.content-visible when-profile="master"}
+
+**Machine Learning:** Scikit-learn, TensorFlow (basic), Hugging Face Transformers[, PyTorch (learning)]{.content-visible when-profile="master"}
+
+**Data Tools:** Pandas, NumPy, Matplotlib, Seaborn, Power BI[, PySpark (basic)]{.content-visible when-profile="master"}
+
+**Other:** Git, Jupyter Notebooks, Streamlit[, Docker (basic), Azure (basic)]{.content-visible when-profile="master"}
+
+::: {.content-visible when-profile="master"}
+**Learning:** AWS, MLOps practices, Deep Learning architectures
+:::
+
+# Certifications
+
+* **Deep Learning Specialization** - DeepLearning.AI/Coursera, 2024
+* **Google Data Analytics Certificate** - Google/Coursera, 2023
+
+::: {.content-visible when-profile="master"}
+* **Python for Data Science** - DataCamp, 2022
+* **SQL Fundamentals** - HackerRank, 2023
+:::
+
+# Languages
+
+* Portuguese (Native)
+* English (Intermediate - B2)
+:::
+
+::: {.content-visible when-profile="pt-BR"}
+
+# Educação
+
+{{< entry title="Bacharelado em Ciência de Dados e Inteligência Artificial" company="Universidade Federal da Paraíba (UFPB)" dates="2021 - 2025" loc="João Pessoa, PB" >}}
+
+* **CR:** 8.5/10.0
+* **TCC:** Dashboard de análise de sentimento para turismo usando BERTimbau (82% acurácia) - [sentimento-nordeste](https://github.com/fulanociclano/sentimento-nordeste)
+
+::: {.content-visible when-profile="master"}
+* **Disciplinas Relevantes:** Aprendizagem Profunda, Processos Estocásticos, Arquiteturas Big Data, Estatística Bayesiana, Projeto de Algoritmos, Álgebra Linear
+* **Detalhes do TCC:** Coletei 8k+ avaliações do Google Maps/TripAdvisor; deploy de demo interativo com Streamlit
+* **Ferramentas:** Python, Hugging Face Transformers, BERTimbau, Streamlit, pandas
+:::
+
+# Experiência
+
+{{< entry title="Estagiário de Data Science" company="Accenture Applied Intelligence" dates="Jul 2024 - Dez 2024" loc="Recife, PE (Híbrido)" >}}
+
+* Auxiliei na construção de modelos de manutenção preditiva para cliente industrial, alcançando 78% de precisão
+* Desenvolvi visualizações de dados e automatizei relatórios semanais com Power BI, reduzindo trabalho manual em 50%
+* Colaborei com cientistas de dados seniores em engenharia de features para modelo de churn
+
+::: {.content-visible when-profile="master"}
+  * Realizei EDA em logs de sensores usando PySpark sob mentoria
+  * Aprendi desenvolvimento de pipelines com Azure Data Factory
+  * Participei de apresentações para clientes e planejamento de sprints
+  * Ferramentas: Python, PySpark, Azure, SQL, Scikit-learn, Power BI
+:::
+
+{{< entry title="Estagiário de Análise de Dados" company="SEBRAE Paraíba" dates="Jan 2024 - Jun 2024" loc="João Pessoa, PB" >}}
+
+* Criei dashboards acompanhando métricas de desempenho para 200+ empreendedores
+* Limpei e processei dados de pesquisas com 5.000+ respondentes usando Python e pandas
+* Desenvolvi ferramenta de previsão de vendas usando Prophet para uso interno, melhorando planejamento de negócios parceiros
+
+::: {.content-visible when-profile="master"}
+  * Apoiei a equipe na geração de relatórios mensais sobre indicadores econômicos regionais
+  * Primeira experiência profissional com comunicação com stakeholders
+  * Aprendi metodologia ágil e participei de reuniões diárias
+  * Ferramentas: Python, pandas, Prophet, Excel, Power BI, SQL
+  * Projeto: [previsao-vendas-sebrae](https://github.com/fulanociclano/previsao-vendas) - Interface amigável para usuários não-técnicos
+:::
+
+# Experiência Adicional e Liderança
+
+{{< entry title="Pesquisador de Iniciação Científica (PIBIC/CNPq)" company="Laboratório ARIA - UFPB" dates="Ago 2022 - Jul 2024" >}}
+
+* Auxiliei em pesquisa sobre "Deep Learning para Análise de Imagens de Satélite no Semiárido"
+* Contribuí para pipeline de pré-processamento e avaliação de modelos para detecção de reservatórios
+* Co-autorei pôster apresentado no ENIC UFPB 2024
+
+::: {.content-visible when-profile="master"}
+* Aprendi TensorFlow e Keras sob orientação do professor
+* Ajudei a anotar 500+ imagens de satélite para dataset de treinamento
+* Ferramentas: TensorFlow, Keras, Python, Google Earth Engine
+:::
+
+{{< entry title="Monitor" company="UFPB - Introdução à Ciência de Dados" dates="Mar 2024 - Jul 2024" >}}
+
+* Apoiei 45 alunos com programação Python e tarefas de análise de dados
+
+::: {.content-visible when-profile="master"}
+* Realizei plantões semanais de dúvidas e corrigi trabalhos
+* Criei materiais tutoriais complementares sobre pandas e matplotlib
+* Ferramentas: Python, Jupyter Notebooks
+:::
+
+{{< entry title="Membro" company="Liga Acadêmica de Ciência de Dados (LACD-UFPB)" dates="Mar 2023 - Presente" >}}
+
+* Participei de 10+ workshops e grupos de estudo; ajudei a organizar 2 eventos
+
+{{< entry title="Instrutor Voluntário" company="Programaê" dates="Ago 2023 - Dez 2023" >}}
+
+* Ensinei programação básica em Python para 15 estudantes do ensino médio
+
+::: {.content-visible when-profile="master"}
+{{< entry title="Participante" company="Hackathon UFPB 2024" dates="Out 2024" >}}
+
+* Construí protótipo para visualização de dados agrícolas (equipe de 4, trilha de Inovação Agrícola)
+
+{{< entry title="Organizador de Grupo de Estudos" company="Grupo de Leitura de Machine Learning" dates="Mar 2024 - Nov 2024" >}}
+
+* Coordenei discussões semanais de artigos com 8 colegas
+:::
+
+# Habilidades
+
+**Linguagens:** Python, SQL[, R, C++ (básico)]{.content-visible when-profile="master"}
+
+**Machine Learning:** Scikit-learn, TensorFlow (básico), Hugging Face Transformers[, PyTorch (aprendendo)]{.content-visible when-profile="master"}
+
+**Ferramentas de Dados:** Pandas, NumPy, Matplotlib, Seaborn, Power BI[, PySpark (básico)]{.content-visible when-profile="master"}
+
+**Outros:** Git, Jupyter Notebooks, Streamlit[, Docker (básico), Azure (básico)]{.content-visible when-profile="master"}
+
+::: {.content-visible when-profile="master"}
+**Aprendendo:** AWS, práticas de MLOps, arquiteturas de Deep Learning
+:::
+
+# Certificações
+
+* **Deep Learning Specialization** - DeepLearning.AI/Coursera, 2024
+* **Google Data Analytics Certificate** - Google/Coursera, 2023
+
+::: {.content-visible when-profile="master"}
+* **Python for Data Science** - DataCamp, 2022
+* **SQL Fundamentals** - HackerRank, 2023
+:::
+
+# Idiomas
+
+* Português (Nativo)
+* Inglês (Intermediário - B2)
+:::
